@@ -4,7 +4,7 @@ A (shock)ingly fast console file manager for Linux and OSX, written in Rust
 
 ## Why another file manager?
 
-[ranger](https://github.com/ranger/ranger) is featureful, but lacks speed. [nnn]([GitHub - jarun/nnn: n³ The unorthodox terminal file manager](https://github.com/jarun/nnn)) is fast, but lacks features. Other common issues that Shock intends to solve include: ugly interfaces, difficult configuration, and general annoyances.
+[ranger](https://github.com/ranger/ranger) is featureful, but lacks speed. [nnn](https://github.com/jarun/nnn) is fast, but lacks features. Other common issues that Shock intends to solve include: ugly interfaces, difficult configuration, and general annoyances.
 
 ## Using Shock
 
