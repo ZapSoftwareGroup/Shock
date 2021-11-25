@@ -26,17 +26,17 @@ As `Shock` is minimal software, you must configure it through the source code an
 
 ## Features
 
-- [ ] Cross-platform (Linux, OSX)
+- [x] Cross-platform (Linux, OSX)
 
-- [ ] File previews
+- [x] File previews
 
-- [ ] Custom file openers
+- [x] Custom file openers
 
-- [ ] Shockingly fast
+- [x] Shockingly fast
 
-- [ ] Vim keybindings
+- [x] Vim keybindings
 
-- [ ] File operations
+- [x] File operations
 
 ## License
 
